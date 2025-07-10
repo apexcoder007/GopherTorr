@@ -1,1 +1,2 @@
-bin/\n*.log\n
+bin/
+*.log
